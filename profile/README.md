@@ -3,7 +3,7 @@
 A collection of [GitHub Actions](https://docs.github.com/en/actions) for [fish shell](https://fishshell.com/) [^1].
 
 > [!IMPORTANT]
-> Supply-chain security matters: all GitHub Actions provided here receive frequent dependency updates and include transparent security policies. [OpenSSF Scorecard](https://securityscorecards.dev) is used as a benchmark for maintaining a good security posture.
+> Supply-chain security matters: all GitHub Actions provided here receive frequent dependency updates and include transparent security policies. [OpenSSF Scorecard](https://securityscorecards.dev) is used as a benchmark for maintaining a good security posture[^2].
 
 Why not:
 
@@ -14,3 +14,4 @@ Why not:
 - 🎙 Join the [discussion](https://github.com/orgs/fish-shop/discussions/3) to contribute your ideas and more!
 
 [^1]: _What's fish shell?_ It's a user-friendly command line shell for Linux, macOS, and more. 🐟
+[^2]: Read the [full announcement](https://github.com/orgs/fish-shop/discussions/4) for more information.
