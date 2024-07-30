@@ -17,5 +17,5 @@ Why not:
 > Supply-chain security matters: all GitHub Actions provided here receive frequent dependency updates and include transparent security policies. [OpenSSF Scorecard](https://securityscorecards.dev) is used as a benchmark for maintaining a good security posture[^2].
 
 
-[^1]: _What's fish shell?_ It's a user-friendly command line shell for Linux, macOS, and more. 🐟
+[^1]: What's _fish shell?_ It's a user-friendly command line shell for Linux, macOS, and more. 🐟
 [^2]: Read the [full announcement](https://github.com/orgs/fish-shop/discussions/4) for more information.
