@@ -1,6 +1,6 @@
 <h1>fish-shop</h1>
 
-A collection of [GitHub Actions](https://docs.github.com/en/actions) for [fish shell](https://fishshell.com/) [^1].
+A collection of custom [GitHub Actions](https://docs.github.com/en/actions) for [fish shell](https://fishshell.com/) [^1].
 
 Why not:
 
