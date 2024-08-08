@@ -9,7 +9,7 @@ Why not:
 - 🔌 Install fish plugins with [install-plugin](https://github.com/fish-shop/install-plugin) or add a plugin manager with [install-plugin-manager](https://github.com/fish-shop/install-plugin-manager)
 - 🧪 Test your functions with [run-fishtape-tests](https://github.com/fish-shop/run-fishtape-tests)
 - 👨🏻‍🏫 Read the [supplementary project documentation](https://github.com/fish-shop/discussions/wiki/Supplementary-project-documentation) for detailed dependency and versioning scheme information
-- 🎙 Join the [discussion](https://github.com/orgs/fish-shop/discussions/3) to contribute your ideas and more!
+- 🎙 Join our [discussions](https://github.com/orgs/fish-shop/discussions) to contribute your ideas and more!
 
 <hr>
 
