@@ -15,7 +15,7 @@ Why not:
 <hr>
 
 > [!IMPORTANT]
-> Supply-chain security _matters_. All GitHub Actions provided here receive frequent dependency updates, include transparent security policies, use [immutable releases](https://docs.github.com/en/code-security/concepts/supply-chain-security/immutable-releases), and more, to help you maintain the integrity of your software supply chain. [OpenSSF Scorecard](https://securityscorecards.dev) is used as a benchmark for maintaining a good security posture[^2].
+> Supply‑chain security _matters_. All GitHub Actions provided here receive frequent dependency updates, follow transparent security policies, use [immutable releases](https://docs.github.com/en/code-security/concepts/supply-chain-security/immutable-releases), and more — helping you maintain the integrity of your software supply chain. [OpenSSF Scorecard](https://securityscorecards.dev) is used as a benchmark for maintaining a good security posture[^2].
 
 [^1]: What's _`fish` shell?_ It's a user-friendly command line shell for Linux, macOS, and more. 🐟
 [^2]: Read the [full announcement](https://github.com/orgs/fish-shop/discussions/4) for more information.
